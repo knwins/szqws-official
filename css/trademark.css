@@ -1,0 +1,27 @@
+@charset "utf-8";
+html, body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, fieldset, input, textarea, p, label, blockquote, th, td, button, span {padding: 0;margin: 0;-webkit-text-size-adjust: none;}
+ol, ul, li, dl, dt, dd {list-style: none;}
+.banner {height: 380px;width: 100%;background: url(../images/banner_trademark.jpg);background-position: center center;position: relative;}
+.s-input {position: absolute;width: 700px;height: 80px;left: 50%;top: 230px;margin-left: -350px;z-index: 10;}
+.s-input .input_text {width: 471px;height: 53px;line-height: 53px;color: #333333;font-size: 14px;font-family: "microsoft yahei";background: #fff;padding-left: 100px;}
+input, button {border: none medium;outline: none;font-family: "微软雅黑";vertical-align:baseline;}
+.input_search {display: inline-block;width: 120px;height: 54px;line-height: 52px;color: #fff;text-align: center;font-size: 16px;}
+.input_search {background: #B00910;}
+.s-input a{text-decoration: none;cursor: pointer;color: #fff;}
+.s-input a:link {text-decoration: none;cursor: pointer;color: #fff;}
+.super2000,.huanying{position: absolute;width: 700px;left: 50%;margin-left: -350px;z-index: 10;color: #ffffff;text-align: center;}
+.super2000{top: 60px;height: 80px;font-size: 48px;line-height: 80px;}
+.huanying{height:40px;top: 130px;font-size: 16px;line-height: 40px;}
+.slzmsz{padding: 20px 10px 10px 90px;float: left;width: 340px;}
+.slzmsz .tit{font-weight:bold;}
+.slzmsz li{height:28px;font-size:14px;}
+.slzmsz li .c{color:#b20707;}
+.s-input .topselect{width: 86px;height: 54px;line-height: 54px;float: left;position: absolute;color: #444444;cursor: pointer;}
+.s-input .topselect .showselect{float: left;width: 71px;text-align:center;cursor:pointer;}
+.s-input .topselect em{width: 15px;height:54px;float: left;background:url(../images/seld_i.png);cursor:pointer;}
+.s-input .select{display:none;width: 71px;background-color: #ffffff;position: absolute;top: -162px;float: left;border:none; padding:0;z-index: 111119999;text-align: center;}
+.s-input .select li {height:54px;line-height:54px;color:#666666;}
+.s-input .select .active{background-color:#dcdcdc;}
+.s-input .select li:hover{background-color:#dcdcdc;}
+.txtlink{ clear:both;}
+.txtlink a{color:#fff; font-size:14px; line-height:42px;padding-right:10px;}
