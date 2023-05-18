@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /css/
+Disallow: /admin/
+Disallow: /images/
+Disallow: /advs
+Disallow: /class/
+Disallow: /js/
+Disallow: /script/
+Disallow: /upload/
+Disallow: /templet/
+Disallow: /uploads/
+Disallow: /UploadFiles/
